@@ -42,11 +42,13 @@ th, td {
 }
 
 h2 {
-	text-align: center;
+	top: 50%;
+	left: 50%;
 	color: #3599dc
 }
 
 h1 {
-	text-align: center;
+	top: 50%;
+	left: 50%;
 	color: #7835dc
 }
