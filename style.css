@@ -3,25 +3,40 @@ td {
 }
 
 #Neptune{
-	width: 400px;
+	width: 200px;
 	height: auto;
 }
 
 #Venus{
-	width: 400px;
+	width: 200px;
 	height: auto;
 }
 
 #Mars{
-	width: 400px;
+	width: 200px;
 	height: auto;
 }
 
 #Saturn{
-	width: 400px;
+	width: 200px;
 	height: auto;
 }
 
 table{
 	width: 100%;
+}
+
+th, td {
+	border-bottom: 2px solid #ddd;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+th {
+	background-color: #35dccc;
+	color: white;
+}
+
+th, td {
+	padding: 15px;
 }
